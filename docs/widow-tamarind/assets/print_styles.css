@@ -1,0 +1,41 @@
+@media print {
+  body {
+    background: #ffffff;
+    color: #000000;
+    font-size: 11pt;
+  }
+
+  .page {
+    max-width: none;
+    padding: 0.35in;
+  }
+
+  header {
+    border-bottom: 1px solid #000000;
+  }
+
+  h1 {
+    font-size: 18pt;
+  }
+
+  h2 {
+    font-size: 14pt;
+    page-break-after: avoid;
+  }
+
+  .box,
+  .accent-box,
+  .task-step {
+    background: #ffffff;
+    border: 1px solid #000000;
+  }
+
+  a {
+    color: #000000;
+    text-decoration: underline;
+  }
+
+  .no-print {
+    display: none;
+  }
+}
