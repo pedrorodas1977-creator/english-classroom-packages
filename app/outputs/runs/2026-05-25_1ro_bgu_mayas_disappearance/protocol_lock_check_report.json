@@ -1,0 +1,18 @@
+{
+  "protocol_lock": "PEDRO_OFFICIAL_CLASSROOM_PACKAGE_PROTOCOL_LOCK",
+  "active": true,
+  "run_dir": "C:\\Users\\ASUS\\English_Classroom_Packages\\app\\outputs\\runs\\2026-05-25_1ro_bgu_mayas_disappearance",
+  "github_pages_url": "https://pedrorodas1977-creator.github.io/english-classroom-packages/1ro-bgu-mayas-disappearance/",
+  "course_names": [
+    "1ro E BGU",
+    "1ro F BGU",
+    "1ro G BGU",
+    "1ro H BGU",
+    "1ro I BGU",
+    "1ro J BGU"
+  ],
+  "passed": true,
+  "errors": [],
+  "warnings": [],
+  "publication_allowed": true
+}
